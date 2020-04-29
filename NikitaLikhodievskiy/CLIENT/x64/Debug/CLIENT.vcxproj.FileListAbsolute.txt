@@ -1,0 +1,2 @@
+D:\TRISPOlab\coursework-trispo-1-FireDragonchik-patch-1\CLIENT\x64\Debug\CLIENT.exe
+D:\TRISPOlab\coursework-trispo-1-FireDragonchik-patch-1\CLIENT\x64\Debug\CLIENT.pdb

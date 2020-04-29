@@ -1,0 +1,4 @@
+D:\TRISPOlab\coursework-trispo-1-FireDragonchik-patch-1\SERVER\x64\Debug\SERVER.exe
+D:\TRISPOlab\coursework-trispo-1-FireDragonchik-patch-1\SERVER\x64\Debug\SERVER.pdb
+D:\TRISPOlab\NikitaLikhodievskiy\SERVER\x64\Debug\SERVER.exe
+D:\TRISPOlab\NikitaLikhodievskiy\SERVER\x64\Debug\SERVER.pdb

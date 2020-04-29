@@ -1,0 +1,4 @@
+﻿  SERVER.cpp
+D:\TRISPOlab\NikitaLikhodievskiy\SERVER\SERVER.cpp(5,33): warning C4081: требуется "newline"; обнаружен ";"
+D:\TRISPOlab\NikitaLikhodievskiy\SERVER\SERVER.cpp(49,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  SERVER.vcxproj -> D:\TRISPOlab\NikitaLikhodievskiy\SERVER\x64\Debug\SERVER.exe
